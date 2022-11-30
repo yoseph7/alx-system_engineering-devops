@@ -1,1 +1,1 @@
-This repostiory contains Shell basics
+This repository contains Shell basics
