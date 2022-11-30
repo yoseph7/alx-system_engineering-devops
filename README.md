@@ -1,2 +1,2 @@
 #!/bin/bash
-This repository contains Shell basics
+This repository contains Shell basics \n
