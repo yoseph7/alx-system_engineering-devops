@@ -5,4 +5,4 @@ cd ~ script changes the working directory to the user’s home directory
 ls -l script display current directory contents in a long format 
 ls -l -a script display current directory contents, including hidden files (starting with .) 
 ls -l -a Display current directory contents Long format with user and group IDs displayed numerically and hidden files (starting with .) 
-cd /tmp/  mkdir my_first_directory \n
+mkdir tmp/my_first_directory Create a script that creates a directory named my_first_directory in the /tmp/ directory. \n
